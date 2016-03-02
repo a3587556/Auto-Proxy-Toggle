@@ -7,7 +7,7 @@ Auto Proxy Toggle for Alfred workflows
 
 因为使用networksetup设置Auto Proxy需要sudo权限，所以使用了Authenticate.app来保存用户名密码，第一次使用会提示输入用户密码。
 
-如果Authenticate的窗口未自动弹出，请手动点击workflow目录内的Authenticate.app。 你可以通过Alred Preferentces -> Workflow -> Proxy Toggle -> Show in Finder 进入workflow目录。
+如果Authenticate的窗口未自动弹出，请手动点击workflow目录内的Authenticate.app。 你可以通过Alred Preferentces -> Workflow -> Auto Proxy Toggle -> Show in Finder 进入workflow目录。
 
 
 使用效果如下：
